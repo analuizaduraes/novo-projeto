@@ -1,6 +1,6 @@
 import { Routes, Route, Navigate } from 'react-router';
-import { Home } from '../pages/Home';
-import  { Details } from '../pages/Details';
+import { Home } from '../pages/Home/index';
+import { Details } from '../pages/Details/index';
 
 export function NovoProjetoRoutes() {
     return (

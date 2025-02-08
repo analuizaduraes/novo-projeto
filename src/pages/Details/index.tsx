@@ -1,7 +1,8 @@
 export function Details() {
 
     return(
-        <></>
+        <>
+        </>
     )
 
 }
